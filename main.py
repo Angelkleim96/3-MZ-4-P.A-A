@@ -252,7 +252,7 @@ zombie_textures = {
     'down': [
         load_texture("img/zombie_down.png", (zombie_scale*1.5, zombie_scale*2)),
         load_texture("img/zombie_down2.png", (zombie_scale*1.5, zombie_scale*2)),
-        load_texture("img/zombie_down2.png", (zombie_scale*1.5, zombie_scale*2))
+        load_texture("img/zombie_down3.png", (zombie_scale*1.5, zombie_scale*2))
     ],
     'up': [
         load_texture("img/zombie_up.png", (zombie_scale*1.5, zombie_scale*2)),
